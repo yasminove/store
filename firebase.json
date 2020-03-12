@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/first-ng",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
